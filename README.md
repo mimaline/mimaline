@@ -11,8 +11,9 @@
 
 <p align="left">
 ⭐ Informações sobre minha conta GitHub
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mimaline&show_icons=true)
-</p> 
+<a href="https://github.com/mimaline">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mimaline&theme=dracula&show_icons=true" />
+</a>
 
 <p align="left">
   💌 Entre em contato atraves: ⤵️
