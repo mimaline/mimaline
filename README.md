@@ -10,6 +10,11 @@
 </p>
 
 <p align="left">
+⭐ Informações sobre minha conta GitHub
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mimaline&show_icons=true)
+</p> 
+
+<p align="left">
   💌 Entre em contato atraves: ⤵️
 </p>
 
