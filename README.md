@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Ola! eu sou a <strong>Yasmim</strong>.<br>
-  Estudante de Java
+  Estudante de Java, HTML, CSS, JS e PHP
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java.</strong>
+  🦄 Linguagens: <strong>Java, HTML e CSS</strong>
 </p>
 
 <p align="left">
